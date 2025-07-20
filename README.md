@@ -4,11 +4,13 @@
 
 <div align="center">
   <p>
-I'm a backend developer and it just a prototype 9tgresfgh dfghgfdsasdfgtres<br>
-gsdg dfgeasju okjnbjytfdsxc nhgfdcvb ghtrewqsd grewazxcv dgresd sWGVCXS Qej<br>
-oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
+    I'm a backend developer and it just a prototype and I am a self-taught developer.<br>
+    Currently, I am focused on Back-end development, with knowledge in Java, Spring Boot, and databases like MySQL and PostgreSQL,<br>
+    deepening my studies in Spring, Restful APIs, and tools like Insomnia.
+    My goal is to learn and grow as a programmer, whether as a volunteer or working in a company.
+    If you identified with this or want to exchange ideas, feel free to reach out to me.
   
-</p>
+  </p>
 </div>
 
 #
@@ -21,9 +23,10 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
   
   <img aling="center" alt="gabri-Java" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img aling="center" alt="gabri-Spring" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img aling="center" alt="gabri-Git" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img aling="center" alt="gabri-MySQL" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-
+  <img aling="center" alt="gabri-MySQL" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img aling="center" alt="gabri-Git" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  
   <!-- Things I don't need, yet
   <img align="center" alt="gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -41,7 +44,7 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
   <a href="https://www.youtube.com/channel/null" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devgabrieljeronimo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/devgabrieljeronimo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/null" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <!--<a href="https://discord.gg/null" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "gabrieljeronimo2b.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-jer%C3%B4nimo-426905371" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
