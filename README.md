@@ -46,7 +46,7 @@ Se você precisa de um site que apresente seu negócio, capture leads e passe cr
 
 [![sweet-crumbs-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljeronimodev&repo=sweet-crumbs-landing-page&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&icon_color=4D9FFF&text_color=c9d1d9)](https://github.com/gabrieljeronimodev/sweet-crumbs-landing-page)
 
-Landing page para padaria artesanal fictícia — HTML5, CSS e JS vanilla. Responsiva, acessível e otimizada para LCP. [Ver preview →](https://gabrieljeronimodev.github.io/sweet-crumbs-landing-page/)
+Landing page para padaria artesanal fictícia com HTML5, CSS e JS. Responsiva, acessível e otimizada para LCP. [Ver preview →](https://gabrieljeronimodev.github.io/sweet-crumbs-landing-page/)
 
 <!-- Adicione mais projetos abaixo conforme for criando:
 [![nome-do-repo](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljeronimodev&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&icon_color=4D9FFF&text_color=c9d1d9)](https://github.com/gabrieljeronimodev/NOME_DO_REPO)
