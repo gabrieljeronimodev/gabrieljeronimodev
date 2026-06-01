@@ -6,7 +6,7 @@
 
 <br/>
 
-Tenho 19 anos e programo desde os 15 — comecei com scripts em Lua e aplicações Java por hobby, só pra entender como as coisas funcionavam por dentro. Hoje sou desenvolvedor frontend freelancer especializado em landing pages e portfólios que convertem visitantes em clientes reais.
+Olá me chamo Gabriel e sou programador desde os 15 anos, comecei com scripts em Lua e aplicações Java por hobby, só pra entender como as coisas funcionavam por dentro. Hoje sou desenvolvedor frontend freelancer especializado em landing pages e portfólios que convertem visitantes em clientes reais.
 
 Escrevo código limpo, bem estruturado e responsivo. Sem template de $10, sem prazo de três dias que viram três semanas.
 
