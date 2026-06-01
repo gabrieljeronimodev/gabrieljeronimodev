@@ -1,87 +1,82 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=3000&width=522&height=60&lines=%E2%9C%A7+Hi%2C+my+name's+Gabriel+Jeronimo!+%E2%9C%A7;%E2%9C%A7+Welcome+to+my+profile!+(%E2%80%A2%E2%80%BF%E2%80%A2)+%E2%9C%A7" alt="Typing SVG" /></a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001F6E,40:0052CC,100:00B4FF&height=160&section=header&fontSize=0"/>
 
 <div align="center">
-  <p>
-    I'm a backend developer and it just a prototype and I am a self-taught developer.<br>
-    Currently, I am focused on Back-end development, with knowledge in Java, Spring Boot, and databases like MySQL and PostgreSQL,<br>
-    deepening my studies in Spring, Restful APIs, and tools like Insomnia.
-    My goal is to learn and grow as a programmer, whether as a volunteer or working in a company.
-    If you identified with this or want to exchange ideas, feel free to reach out to me.
-  
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2800&color=4D9FFF&center=true&vCenter=true&width=560&height=48&lines=Gabriel+Jeronimo+—+Frontend+Developer;Landing+pages+que+convertem+visitantes+em+clientes.;Portf%C3%B3lios+que+passam+credibilidade+de+verdade.;Dispon%C3%ADvel+para+freelas+no+Brasil." alt="Typing SVG" />
 </div>
 
-#
+<br/>
 
-<img align="right" alt="Coding-in-blue" height="230" src="imagens/WNnv.gif">
+Tenho 19 anos e programo desde os 15 — comecei com scripts em Lua e aplicações Java por hobby, só pra entender como as coisas funcionavam por dentro. Hoje sou desenvolvedor frontend freelancer especializado em landing pages e portfólios que convertem visitantes em clientes reais.
 
-<div style="display: inline_block">
-  
-  <h3>My Stack ⬩</h3>
-  
-  <img aling="center" alt="gabri-Java" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img aling="center" alt="gabri-Spring" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img aling="center" alt="gabri-MySQL" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img aling="center" alt="gabri-MySQL" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img aling="center" alt="gabri-Git" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  
-  <!-- Things I don't need, yet
-  <img align="center" alt="gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gabri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="gabri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="gabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gabri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  
-</div><br>
+Escrevo código limpo, bem estruturado e responsivo. Sem template de $10, sem prazo de três dias que viram três semanas.
 
-<h3>Connect with me!</h3>
+---
 
-<div> 
-  <a href="https://www.youtube.com/channel/null" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/devgabrieljeronimo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/devgabrieljeronimo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <!--<a href="https://discord.gg/null" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href = "gabrieljeronimo2b.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-jer%C3%B4nimo-426905371" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,git&theme=dark&perline=8" alt="Tech Stack" />
+  </a>
 </div>
 
-#
+---
 
-<h3 align="center">GitHub Stats ☆</h3><br>
+### Freela — como trabalho
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=holi&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=holi)
+Se você precisa de um site que apresente seu negócio, capture leads e passe credibilidade profissional, esse é o meu território. Atendo no Brasil.
 
-#
+- **Landing pages** focadas em conversão, do zero ao deploy
+- **Portfólios** para profissionais, criativos e agências
+- **Redesign** de sites que precisam de identidade visual coerente
 
-![Snake animation](https://github.com/devgabrieljeronimo/devgabrieljeronimo/blob/output/github-snake.svg)
+<a href="https://www.linkedin.com/in/gabriel-jeronimo-426905371/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://wa.me/5511999999999">
+  <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfólio-0052CC?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio — em breve"/>
+</a>
 
+---
 
+### Projetos
 
+[![sweet-crumbs-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljeronimodev&repo=sweet-crumbs-landing-page&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&icon_color=4D9FFF&text_color=c9d1d9)](https://github.com/gabrieljeronimodev/sweet-crumbs-landing-page)
 
+Landing page para padaria artesanal fictícia — HTML5, CSS e JS vanilla. Responsiva, acessível e otimizada para LCP. [Ver preview →](https://gabrieljeronimodev.github.io/sweet-crumbs-landing-page/)
 
-
-
-
-  <!--<img align="right" alt="The-Idea" src="imagens/The_Idea.gif" width="150px" alt="The Idea">-->
-
-
-<!--
-**devgabrieljeronimo/devgabrieljeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Adicione mais projetos abaixo conforme for criando:
+[![nome-do-repo](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljeronimodev&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&icon_color=4D9FFF&text_color=c9d1d9)](https://github.com/gabrieljeronimodev/NOME_DO_REPO)
 -->
+
+---
+
+<div align="center">
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=gabrieljeronimodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&icon_color=4D9FFF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljeronimodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrieljeronimodev&theme=tokyonight&hide_border=true&background=0d1117&ring=4D9FFF&fire=00B4FF&currStreakLabel=4D9FFF&sideLabels=c9d1d9&dates=6e7681" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieljeronimodev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4D9FFF&line=4D9FFF&point=00B4FF&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- Snake animation — ative após configurar o GitHub Action (veja o arquivo snake.yml neste repositório) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,60:0052CC,100:001F6E&height=100&section=footer&fontSize=0"/>
