@@ -76,7 +76,7 @@ Landing page para padaria artesanal fictícia — HTML5, CSS e JS vanilla. Respo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/gabrieljeronimodev/gabrieljeronimodev/blob/output/github-snake-dark.svg" />
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,60:0052CC,100:001F6E&height=100&section=footer&fontSize=0"/>
