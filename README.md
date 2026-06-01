@@ -20,7 +20,7 @@ Escrevo código limpo, bem estruturado e responsivo. Sem template de $10, sem pr
 
 ---
 
-### Freela — como trabalho
+### Freela como trabalho
 
 Se você precisa de um site que apresente seu negócio, capture leads e passe credibilidade profissional, esse é o meu território. Atendo no Brasil.
 
