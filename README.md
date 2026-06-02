@@ -53,12 +53,7 @@ Landing page para padaria artesanal fictícia com HTML5, CSS e JS. Responsiva, a
 -->
 
 ---
-
-<div align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=gabrieljeronimodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&icon_color=4D9FFF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljeronimodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4D9FFF&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
-</div>
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gabrieljeronimodev&theme=tokyonight&hide_border=true&background=0d1117&ring=4D9FFF&fire=00B4FF&currStreakLabel=4D9FFF&sideLabels=c9d1d9&dates=6e7681" alt="Streak Stats"/>
