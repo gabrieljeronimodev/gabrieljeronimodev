@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001F6E,40:0052CC,100:00B4FF&height=160&section=header&fontSize=0"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2800&color=4D9FFF&center=true&vCenter=true&width=560&height=48&lines=Gabriel+Jeronimo+—+Frontend+Developer;Landing+pages+que+convertem+visitantes+em+clientes.;Portf%C3%B3lios+que+passam+credibilidade+de+verdade.;Dispon%C3%ADvel+para+freelas+no+Brasil." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2800&color=4D9FFF&center=true&vCenter=true&width=560&height=48&lines=Gabriel+Jeronimo+-+Frontend+Developer;Landing+pages+que+convertem+visitantes+em+clientes.;Portf%C3%B3lios+que+impressionam.;Dispon%C3%ADvel+para+freelas+no+Brasil." alt="Typing SVG" />
 </div>
 
 <br/>
