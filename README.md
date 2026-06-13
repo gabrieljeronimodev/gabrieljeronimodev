@@ -32,11 +32,11 @@ Se você precisa de um site que apresente seu negócio, capture leads e passe cr
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://wa.me/5511999999999">
+<a href="https://wa.me/5511925750589">
   <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://gabrieljeronimo.dev">
   <img src="https://img.shields.io/badge/Portfólio-0052CC?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio — em breve"/>
 </a>
 
