@@ -37,7 +37,7 @@ Se você precisa de um site que apresente seu negócio, capture leads e passe cr
 </a>
 &nbsp;
 <a href="https://gabrieljeronimo.dev">
-  <img src="https://img.shields.io/badge/Portfólio-0052CC?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio — em breve"/>
+  <img src="https://img.shields.io/badge/Portfólio-0052CC?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 ---
